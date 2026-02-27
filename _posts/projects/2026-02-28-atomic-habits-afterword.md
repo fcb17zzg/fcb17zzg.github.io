@@ -2,22 +2,22 @@
 layout: project
 permalink: /:title/
 categories:
-	- projects
+  - projects
 
 meta:
-	keywords: "原子习惯, 习惯养成, 阅读后记"
+  keywords: "原子习惯, 习惯养成, 阅读后记"
 
 project:
-	title: "《原子习惯》后记：怎样培养正确习惯"
-	type: "Reading"
-	url: "#"
-	logo: "/apple-touch-icon.png"
-	tech: "Atomic Habits, 阅读笔记, 习惯追踪"
+  title: "《原子习惯》后记：怎样培养正确习惯"
+  type: "Reading"
+  url: "#"
+  logo: "/apple-touch-icon.png"
+  tech: "Atomic Habits, 阅读笔记, 习惯追踪"
 
 agency:
-	title: "个人博客"
-	url: "#"
-	year: "2026"
+  title: "个人博客"
+  url: "#"
+  year: "2026"
 
 images: []
 ---
