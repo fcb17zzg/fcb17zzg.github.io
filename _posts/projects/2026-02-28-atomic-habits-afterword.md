@@ -1,7 +1,8 @@
 ---
 layout: project
 permalink: /:title/
-category: projects
+categories:
+	- projects
 
 meta:
 	keywords: "原子习惯, 习惯养成, 阅读后记"
