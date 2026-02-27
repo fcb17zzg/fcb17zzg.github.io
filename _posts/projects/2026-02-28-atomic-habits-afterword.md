@@ -1,3 +1,26 @@
+---
+layout: project
+permalink: /:title/
+category: projects
+
+meta:
+	keywords: "原子习惯, 习惯养成, 阅读后记"
+
+project:
+	title: "《原子习惯》后记：怎样培养正确习惯"
+	type: "Reading"
+	url: "#"
+	logo: "/apple-touch-icon.png"
+	tech: "Atomic Habits, 阅读笔记, 习惯追踪"
+
+agency:
+	title: "个人博客"
+	url: "#"
+	year: "2026"
+
+images: []
+---
+
 # 《原子习惯》后记：怎样培养好正确的习惯
 
 读完《原子习惯》后，我想总结下我从这本书中get到的一些培养习惯的正确方式，并且具体说说我在看完后具体会怎样实践。
